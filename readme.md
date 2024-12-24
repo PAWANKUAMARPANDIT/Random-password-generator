@@ -12,4 +12,4 @@ This project will help user to create Password which is Random generated passwor
 2.Password includes uppercase,lowercase,digit,and special character.
 ## Installation
 To clone the repo run the command
-git clone https://github.com/Sigma1213/random-password-generator.git
+git clone https://github.com/PAWANKUAMARPANDIT/Random-password-generator
